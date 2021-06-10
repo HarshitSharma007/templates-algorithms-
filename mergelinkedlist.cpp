@@ -1,3 +1,6 @@
+
+//replace bottom by next :)
+
 Node * merge (Node * a,Node * b){
     Node * t=new Node(0);
     Node * t2=t;
